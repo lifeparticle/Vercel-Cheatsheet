@@ -43,7 +43,7 @@
 }
 ```
 
-- [Community Runtime](https://vercel.com/docs/runtimes#advanced-usage/community-runtimes)
+- [Community Runtimes](https://vercel.com/docs/runtimes#advanced-usage/community-runtimes)
 
 1. [PHP](https://www.npmjs.com/package/vercel-php)
 
